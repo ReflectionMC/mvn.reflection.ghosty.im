@@ -3,26 +3,26 @@
   <groupId>im.ghosty.reflection</groupId>
   <artifactId>Library</artifactId>
   <versioning>
-    <lastUpdated>20251229193943</lastUpdated>
+    <lastUpdated>20251229195241</lastUpdated>
     <snapshot>
-      <timestamp>20251229.193943</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20251229.195241</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.0-20251229.195241-2</value>
+        <updated>20251229195241</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <extension>module</extension>
-        <value>0.1.0-20251229.193943-1</value>
-        <updated>20251229193943</updated>
+        <value>0.1.0-20251229.195241-2</value>
+        <updated>20251229195241</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.0-20251229.193943-1</value>
-        <updated>20251229193943</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.1.0-20251229.193943-1</value>
-        <updated>20251229193943</updated>
+        <value>0.1.0-20251229.195241-2</value>
+        <updated>20251229195241</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
