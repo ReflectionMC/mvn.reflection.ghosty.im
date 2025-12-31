@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "im.ghosty.reflection",
+    "module": "Reflection-API",
+    "version": "0.1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "Reflection-API-0.1.0-SNAPSHOT.jar",
+          "url": "Reflection-API-0.1.0-SNAPSHOT.jar",
+          "size": 2249,
+          "sha512": "121fa470c4b492f4c55a5b5414430845db1de4f8500a3d657750283aee6737c41227be3fa3f12597f32439cfaa51fe4e2cb1427e0710029c83277cbdae5df10e",
+          "sha256": "183d9dcf3f024645a49a63d016dd53b3a76aedcf5560462a1ae4e92c088008ee",
+          "sha1": "212aba1dabf5fc359ffefa8ddd6fe625173bf330",
+          "md5": "9bcf43f08de88a080300d5b7d5f567e6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Reflection-API-0.1.0-SNAPSHOT.jar",
+          "url": "Reflection-API-0.1.0-SNAPSHOT.jar",
+          "size": 2249,
+          "sha512": "121fa470c4b492f4c55a5b5414430845db1de4f8500a3d657750283aee6737c41227be3fa3f12597f32439cfaa51fe4e2cb1427e0710029c83277cbdae5df10e",
+          "sha256": "183d9dcf3f024645a49a63d016dd53b3a76aedcf5560462a1ae4e92c088008ee",
+          "sha1": "212aba1dabf5fc359ffefa8ddd6fe625173bf330",
+          "md5": "9bcf43f08de88a080300d5b7d5f567e6"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Reflection-API-0.1.0-SNAPSHOT-javadoc.jar",
+          "url": "Reflection-API-0.1.0-SNAPSHOT-javadoc.jar",
+          "size": 96564,
+          "sha512": "2a71c0a7fe5625d8b9b9ecac04b52e43f8948d857493c2ddf5c6744b98dc8c0486800775c5f0424d0e38dcee52e8ee1939618570f648790627992ddc55dca640",
+          "sha256": "582e5dfd3085255887e6bac43212695768012186c048600380fd4b4cdb7af9e8",
+          "sha1": "e35ea54eefa707ff12489ff8464d5f78762819d9",
+          "md5": "58a7268649908b5e0924924d0753c35a"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Reflection-API-0.1.0-SNAPSHOT-sources.jar",
+          "url": "Reflection-API-0.1.0-SNAPSHOT-sources.jar",
+          "size": 1275,
+          "sha512": "cd251af66c58d49dac302db899fd39d1d0171524b4d38832f87c9912f318ccba63c27ddbdbf7e886105a23f316f9bd679fff20ee9e2b470c53cde23a7ebd8b1f",
+          "sha256": "3a3a22fa86f1c2d76f3c57e5d32c26a3ec7e71f839dc5effb7be83d5ae3d1187",
+          "sha1": "8f8eecdd06b0de57cf429a286b8058cf271ac30c",
+          "md5": "571d00845bcd7cdf932d386215f287fb"
+        }
+      ]
+    }
+  ]
+}
