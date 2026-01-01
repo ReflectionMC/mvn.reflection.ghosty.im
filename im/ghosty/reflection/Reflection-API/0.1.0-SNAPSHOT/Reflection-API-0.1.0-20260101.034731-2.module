@@ -1,0 +1,120 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "im.ghosty.reflection",
+    "module": "Reflection-API",
+    "version": "0.1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "Reflection-API-0.1.0-SNAPSHOT.jar",
+          "url": "Reflection-API-0.1.0-SNAPSHOT.jar",
+          "size": 1558,
+          "sha512": "a1c0517dcb062ef3865fc2b5ec9e38f0cde13620edad39f5f5179ee3aea1eac26befe4063e215595d8a68c0eb805f651519511bacd06f84f93102fc1f93dbbf8",
+          "sha256": "5dad519a5796a1484f9e7af6d1ad4bc37ba11a073f1388c0e57f18077b7756ab",
+          "sha1": "46fe7066dad0bfda806734fba5acc0335d759435",
+          "md5": "d834e3a7e68172ebbc17c814042c6689"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Reflection-API-0.1.0-SNAPSHOT.jar",
+          "url": "Reflection-API-0.1.0-SNAPSHOT.jar",
+          "size": 1558,
+          "sha512": "a1c0517dcb062ef3865fc2b5ec9e38f0cde13620edad39f5f5179ee3aea1eac26befe4063e215595d8a68c0eb805f651519511bacd06f84f93102fc1f93dbbf8",
+          "sha256": "5dad519a5796a1484f9e7af6d1ad4bc37ba11a073f1388c0e57f18077b7756ab",
+          "sha1": "46fe7066dad0bfda806734fba5acc0335d759435",
+          "md5": "d834e3a7e68172ebbc17c814042c6689"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Reflection-API-0.1.0-SNAPSHOT.jar",
+          "url": "Reflection-API-0.1.0-SNAPSHOT.jar",
+          "size": 1558,
+          "sha512": "a1c0517dcb062ef3865fc2b5ec9e38f0cde13620edad39f5f5179ee3aea1eac26befe4063e215595d8a68c0eb805f651519511bacd06f84f93102fc1f93dbbf8",
+          "sha256": "5dad519a5796a1484f9e7af6d1ad4bc37ba11a073f1388c0e57f18077b7756ab",
+          "sha1": "46fe7066dad0bfda806734fba5acc0335d759435",
+          "md5": "d834e3a7e68172ebbc17c814042c6689"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Reflection-API-0.1.0-SNAPSHOT-javadoc.jar",
+          "url": "Reflection-API-0.1.0-SNAPSHOT-javadoc.jar",
+          "size": 91649,
+          "sha512": "95d39e6398be617b0704cbf8ae22ce71c180581b3359dd57a5f2c352f562a77d0e5e2c26906254d2fc3ff052219696cf94ef583cb925fdf1c5c078610cfdb293",
+          "sha256": "dc705c7647aadf9c0b63d4e0cac56d29903365efc1b11b67c38a96b133da8430",
+          "sha1": "bec4f7d7a6bb5e5690a298649e95778d8751d5d4",
+          "md5": "6ebce61151244346d65f7d5ba510b550"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Reflection-API-0.1.0-SNAPSHOT-sources.jar",
+          "url": "Reflection-API-0.1.0-SNAPSHOT-sources.jar",
+          "size": 1338,
+          "sha512": "c4d3ec0565aba385ff7789e97022c0a5d21ef37baf93f0aa284e0f1ebb0fbabe6a0325153ad8bf6694d0ee5e514be54fe07e324ec4d46126096d8f58514a21af",
+          "sha256": "6d4f1cc4449912939bceebe0bcaa2959a0b8be96150eab8f7249a257cf127d18",
+          "sha1": "57abd142c4636ca6495390aaca18ea40ff44cb47",
+          "md5": "d0ac7ebbef0a90d45e6511da44362974"
+        }
+      ]
+    }
+  ]
+}
